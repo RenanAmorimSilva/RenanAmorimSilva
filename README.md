@@ -1,7 +1,7 @@
 ## Oba👋 eu sou o Renan Amorim
 
 - 🎓 Formado em ADS pelo Centro Universitário Unicarioca
-- 🌱 Estudando JavaScript/ReactJS//nodeJs/SQLServer
+- 🌱 Estudando JavaScript/ReactJS/NodeJs/SQLServer
 
 <div align="center">
   <a href="https://github.com/RenanAmorimSilva">
