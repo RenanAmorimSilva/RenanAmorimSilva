@@ -2,7 +2,6 @@
 
 - 🎓 Formado em ADS pelo Centro Universitário Unicarioca
 - 🌱 Estudando JavaScript/ReactJS//nodeJs/SQLServer
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/RenanAmorimSilva">
