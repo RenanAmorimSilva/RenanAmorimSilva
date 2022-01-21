@@ -1,4 +1,4 @@
-## Oba👋 eu sou o Renan Amorim
+## Hello World👋 eu sou o Renan Amorim
 
 - 🎓 Formado em ADS pelo Centro Universitário Unicarioca
 - 🌱 Estudando JavaScript/ReactJS/NodeJs/SQLServer
