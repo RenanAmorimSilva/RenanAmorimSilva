@@ -1,7 +1,7 @@
 ## Hello World👋 eu sou o Renan Amorim
 
 - 🎓 Formado em ADS pelo Centro Universitário Unicarioca
-- 🌱 Estudando JavaScript/ReactJS/NodeJs/SQLServer
+- 🌱 Estudando JavaScript/ReactJS/NodeJs/MySQL/PostgreSQL/MongoDB
 
 <div align="center">
   <a href="https://github.com/RenanAmorimSilva">
